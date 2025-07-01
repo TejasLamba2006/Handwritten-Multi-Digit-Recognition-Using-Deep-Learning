@@ -2,6 +2,10 @@
 
 A CNN-based system that recognizes handwritten multi-digit numbers with automatic segmentation and real-time prediction.
 
+
+https://github.com/user-attachments/assets/017eca59-159c-4968-9108-60c89c68047b
+
+
 ## Overview
 
 This project extends traditional single-digit recognition to handle complete multi-digit numbers. Instead of just recognizing a "2" or an "8", it can look at your drawing of "28" and correctly identify it as twenty-eight, not just two separate digits.
